@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Dandy-CP/WebPortfolio/assets/72736353/6d25f850-2e3a-4051-867d-e33cfe97de15)](https://dandycandra.vercel.app)
 
 # 💫 About Me
-✨ Software Engineer passionate building Website and Mobile App in Javascript Universe
+✨ Software Engineer passionate building Website and Mobile App in Javascript Universe <br>
 👨‍💻 My Personal Website [https://dandycandra.vercel.app](https://dandycandra.vercel.app) <br>
 📫 How to reach me [dandycandrapratama@gmail.com](mailto:dandycandrapratama@gmail.com)
 
