@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/c67ac782-1df0-473a-a656-3aeebf17ab5c)
 
 # 💫 About Me
-✨ Software Engineer passionate building Website and Mobile App in Javascript Universe <br>
+✨ Software Developer passionate building Website and Mobile App in Javascript Universe <br>
 👨‍💻 My Personal Website [https://www.dandycandra.my.id](https://www.dandycandra.my.id/) <br>
 📫 How to reach me [dandycandrapratama@gmail.com](mailto:dandycandrapratama@gmail.com)
 
